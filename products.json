@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "title": "Blusa do Imperio",
     "price": 7990,
     "zipcode": "78993-000",
@@ -8,6 +9,7 @@
     "date": "26/11/2015"
   },
   {
+    "id": 1,
     "title": "Blusa Han Shot First",
     "price": 7990,
     "zipcode": "13500-110",
@@ -16,6 +18,7 @@
     "date": "26/11/2015"
   },
   {
+    "id": 2,
     "title": "Sabre de luz",
     "price": 150000,
     "zipcode": "13537-000",
@@ -24,6 +27,7 @@
     "date": "20/11/2015"
   },
   {
+    "id": 3,
     "title": "Replica de BB-8",
     "price": 250000,
     "zipcode": "21212-121",
@@ -32,6 +36,7 @@
     "date": "29/10/2015"
   },
   {
+    "id": 4,
     "title": "Blusa C3-PO",
     "price": 2990,
     "zipcode": "20521-110",
@@ -40,6 +45,7 @@
     "date": "26/10/2015"
   },
   {
+    "id": 5,
     "title": "Boneco de StormTrooper",
     "price": 8900,
     "zipcode": "20511-170",
@@ -48,6 +54,7 @@
     "date": "26/10/2015"
   },
   {
+    "id": 6,
     "title": "Capacete de StormTrooper",
     "price": 30000,
     "zipcode": "21212-121",
@@ -56,6 +63,7 @@
     "date": "25/10/2015"
   },
   {
+    "id": 7,
     "title": "Moletom Trooper",
     "price": 80000,
     "zipcode": "13500-110",
@@ -64,6 +72,7 @@
     "date": "22/10/2015"
   },
   {
+    "id": 8,
     "title": "Moletom Jedi",
     "price": 5000,
     "zipcode": "20260-160",
@@ -72,6 +81,7 @@
     "date": "22/10/2015"
   },
   {
+    "id": 9,
     "title": "Moletom Vader",
     "price": 8900,
     "zipcode": "21212-121",
